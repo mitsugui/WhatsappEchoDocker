@@ -1,0 +1,14 @@
+{
+    "containerApps.deploymentConfigurations": [
+        {
+            "label": "whatsappechodocker",
+            "type": "AcrDockerBuildRequest",
+            "dockerfilePath": "Dockerfile",
+            "srcPath": ".",
+            "envPath": "",
+            "resourceGroup": "whatsappechodocker",
+            "containerApp": "whatsappechodocker",
+            "containerRegistry": "whatsappechodocker11c25a"
+        }
+    ]
+}

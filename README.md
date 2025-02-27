@@ -4,7 +4,7 @@
 
 Para o exemplo funcionar é necessário ter uma conta no Whatsapp Business. Siga o [passo a passo](https://developers.facebook.com/docs/whatsapp/cloud-api/get-started) para configurar sua conta e um projeto.
 
-Também é necessário criar um Azure Service App e subir o código do exemplo conforme mostrado [aqui](TODO:Revisar URL)
+Também é necessário criar um Azure Container Apps e subir o código do exemplo conforme mostrado [aqui](https://learn.microsoft.com/en-us/azure/container-apps/deploy-visual-studio-code)
 
 Este exemplo segue os mesmos princípios explicados nesse [tutorial para AWS](https://developers.facebook.com/docs/whatsapp/cloud-api/guides/set-up-whatsapp-echo-bot). Para saber mais sobre webhooks acesse o [link](https://developers.facebook.com/docs/whatsapp/cloud-api/guides/set-up-webhooks)
 
